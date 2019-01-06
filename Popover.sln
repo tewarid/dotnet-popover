@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopoverExample", "PopoverExample\PopoverExample.csproj", "{92E54092-E69A-482D-8FE2-3C58253CDEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Popover", "Popover\Popover.csproj", "{443BB7D9-E411-4640-B142-BAD8CB6E487D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E54092-E69A-482D-8FE2-3C58253CDEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E54092-E69A-482D-8FE2-3C58253CDEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E54092-E69A-482D-8FE2-3C58253CDEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E54092-E69A-482D-8FE2-3C58253CDEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443BB7D9-E411-4640-B142-BAD8CB6E487D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443BB7D9-E411-4640-B142-BAD8CB6E487D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443BB7D9-E411-4640-B142-BAD8CB6E487D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443BB7D9-E411-4640-B142-BAD8CB6E487D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34992547-1DE2-491F-B921-5D1B61214047}
+	EndGlobalSection
+EndGlobal
